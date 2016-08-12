@@ -2,7 +2,8 @@ public class Hello
 {
 	public static void main(String args[]){
 
-		System.out.pritnln("我要提交代码到github上的仓库里面");
+		System.out.pritnln("鎴戣鎻愪氦浠ｇ爜鍒癵ithub涓婄殑浠撳簱閲岄潰");
+		System.out.pritnln("鎴戣鐩存帴鍦╣ithub鐨勯〉闈笂淇敼浠ｇ爜");
 		
 
 	}
